@@ -15,11 +15,6 @@ app.get('/', (req, res) => {
   res.send('Response Success!');
 });
 
-app.use((err, req, res) => {
-  console.error(err.stack);
-  res.status(500).send('Internal Server Error');
-});
-
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
 });
