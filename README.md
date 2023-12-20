@@ -5,6 +5,7 @@ API for IConnect app.
 **Language used:** JavaScript  
 **Framework used:** Express.js  
 **Database used:** MySQL
+**Documentation via Postman:** [Postman Documentation URL](https://docs.google.com/document/d/1nncNJntdvPAomJyjQxKhRkxLWZj6AAzE/edit?usp=sharing&ouid=114610575091302379646&rtpof=true&sd=true)
 
 ## Guidelines for Using the API :
 
